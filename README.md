@@ -6,9 +6,8 @@
 brew install --cask code2life/sitin/sitin
 ```
 
-The desktop app for macOS (Apple silicon and Intel, macOS 13 or later). It is a development build,
-ad-hoc signed and not notarized; the cask removes the quarantine attribute so it opens without a
-Gatekeeper prompt. The app updates itself.
+The desktop app for macOS (Apple silicon and Intel, macOS 13 or later), signed and notarized. The app
+updates itself.
 
 The command line `sitin` (macOS and Linux): `curl -fsSL https://app.sitin.team/install.sh | sh`.
 
